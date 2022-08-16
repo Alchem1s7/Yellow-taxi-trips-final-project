@@ -30,14 +30,11 @@ yellow_taxi_path_parquet = "s3://raw-data-taxitrip/data/project-database/yellow-
 
 #Path para el bucket contenedor de los datos normalizados:
 normalized_data_path = "s3://clean-data-taxitrip/data/project_database/"
-
+#Claves de ejemplo:
 """ESTABLECEMOS USERNAME BUCKET Y ACCESS-KEY"""
 AWS_S3_BUCKET = os.getenv("raw-data-taxitrip")
-AWS_ACCESS_KEY_ID = os.getenv("AKIA22Q2FKRV3XOJIQOL")
-AWS_SECRET_ACCESS_KEY = os.getenv("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")
-
-AWS_ACCESS_KEY_ID = "AKIA22Q2FKRV3XOJIQOL"
-AWS_SECRET_ACCESS_KEY = "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"
+AWS_ACCESS_KEY_ID = "AKIA27Q2FAHV3XOIOGXAL"
+AWS_SECRET_ACCESS_KEY = "Yi7btnCjjas8d55f6sxE4H5mlCAqYd1rt6uHeF+5xs"
 
 """INSTANCIAMOS EL CLIENTE"""
 s3_client = boto3.client(
