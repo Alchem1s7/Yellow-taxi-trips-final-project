@@ -1,0 +1,16 @@
+,localidad_origen,localidad_destino,ocurrence,mes,origen,destino,Origen-destino
+0,237,236,23376,3,Upper East Side South,Upper East Side North,Upper East Side South-Upper East Side North
+1,236,237,19461,3,Upper East Side North,Upper East Side South,Upper East Side North-Upper East Side South
+2,264,264,19419,3,NV,NV,NV-NV
+3,237,237,15607,3,Upper East Side South,Upper East Side South,Upper East Side South-Upper East Side South
+4,236,236,15450,3,Upper East Side North,Upper East Side North,Upper East Side North-Upper East Side North
+5,237,161,10462,3,Upper East Side South,Midtown Center,Upper East Side South-Midtown Center
+6,161,237,9887,3,Midtown Center,Upper East Side South,Midtown Center-Upper East Side South
+7,161,236,9182,3,Midtown Center,Upper East Side North,Midtown Center-Upper East Side North
+8,239,142,9045,3,Upper West Side South,Lincoln Square East,Upper West Side South-Lincoln Square East
+9,239,238,9037,3,Upper West Side South,Upper West Side North,Upper West Side South-Upper West Side North
+10,142,239,8957,3,Lincoln Square East,Upper West Side South,Lincoln Square East-Upper West Side South
+11,236,161,8618,3,Upper East Side North,Midtown Center,Upper East Side North-Midtown Center
+12,141,236,8553,3,Lenox Hill West,Upper East Side North,Lenox Hill West-Upper East Side North
+13,237,162,8061,3,Upper East Side South,Midtown East,Upper East Side South-Midtown East
+14,186,161,7837,3,Penn Station/Madison Sq West,Midtown Center,Penn Station/Madison Sq West-Midtown Center
